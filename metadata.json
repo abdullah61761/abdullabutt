@@ -1,0 +1,8 @@
+{
+  "name": "Remix Retail Storefront",
+  "description": "A high-resolution modern e-commerce website UI with dark charcoal and vibrant orange accents, search utility, full category dropdown, hero slider, and Hot Deals product showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
